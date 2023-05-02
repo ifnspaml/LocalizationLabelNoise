@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Uhrig"
+  given-names: "Jonas"
+  orcid: "https://orcid.org/0009-0001-8309-4318"
+- family-names: "Umesh"
+  given-names: "Jeethesh Pai"
+  orcid: "https://orcid.org/0009-0006-0274-3117"
+title: "LocalizationLabelNoise: A Novel Benchmark for Refinement of Noisy Localization Labels in Autolabeled Datasets for Object Detection"
+version: 2.0.4
+date-released: 2023-06-12
+url: "https://github.com/ifnspaml/LocalizationLabelNoise"
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: B\"ar
+    given-names: "Andreas"
+    orcid: "https://orcid.org/0000-0003-3962-8914"
+  - family-names: "Uhrig"
+    given-names: "Jonas"
+    orcid: "https://orcid.org/0009-0001-8309-4318"
+  - family-names: "Umesh"
+    given-names: "Jeethesh Pai"
+    orcid: "https://orcid.org/0009-0006-0274-3117"
+  - family-names: "Cordts"
+    given-names: "Marius"
+  - family-names: "Fingscheidt"
+    given-names: "Tim"
+  title: "A Novel Benchmark for Refinement of Noisy Localization Labels in Autolabeled Datasets for Object Detection"
+  year: 2023
+  month: June
+  collection-title: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops"
+  start: 3850
+  end: 3859
