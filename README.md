@@ -3,7 +3,7 @@
 This repository can be used to reproduce results of the CVPR 2023 SAIAD (Safe Artificial Intelligence for All Domains)
 Workshop publication:
 > **A Novel Benchmark for Refinement of Noisy Localization Labels in Autolabeled Datasets for Object Detection**
-> [Andreas Bär](https://www.tu-braunschweig.de/ifn/institut/team/sv/baer), [Jonas Uhrig](https://scholar.google.de/citations?user=PmLbO_wAAAAJ&hl=en), [Jeethesh Pai Umesh](https://scholar.google.com/citations?user=ROv6rN4AAAAJ&hl=de), [Marius Cordts](https://scholar.google.de/citations?user=RM0ik8wAAAAJ&hl=en), [Tim Fingscheidt](https://www.tu-braunschweig.de/ifn/institut/abt/sv/prof-dr-ing-tim-fingscheidt).
+> [Andreas Bär](https://andrbaer.github.io/), [Jonas Uhrig](https://scholar.google.de/citations?user=PmLbO_wAAAAJ&hl=en), [Jeethesh Pai Umesh](https://scholar.google.com/citations?user=ROv6rN4AAAAJ&hl=de), [Marius Cordts](https://scholar.google.de/citations?user=RM0ik8wAAAAJ&hl=en), [Tim Fingscheidt](https://www.tu-braunschweig.de/ifn/institut/abt/sv/prof-dr-ing-tim-fingscheidt).
 
 The goal is to train a LLRN (localization label refinement network) that is capable of refining potentially badly
 located 2D object bounding box labels (e.g. coming from autolabeling approaches). To this end we provide means to
