@@ -230,10 +230,11 @@ SPDX-License-Identifier: MIT
 ```
 @InProceedings{Bar_2023_CVPR,
     author    = {B\"ar, Andreas and Uhrig, Jonas and Umesh, Jeethesh Pai and Cordts, Marius and Fingscheidt, Tim},
-    title     = {A Novel Benchmark for Localization Label Errors and Their Refinement in Autolabeled Datasets for Object Detection},
-    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    title     = {{A Novel Benchmark for Refinement of Noisy Localization Labels in Autolabeled Datasets for Object Detection}},
+    booktitle = {Proc. of CVPR - Workshops},
     month     = {June},
     year      = {2023},
+    address     = {Vancouver, BC, Canada},
     pages     = {3850-3859}
 }
 ```
